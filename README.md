@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**Jojo4000/Jojo4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is João Fernandes Carvalho 👋
 
-Here are some ideas to get you started:
+### Backend Development · Full-Stack Foundations · Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student focused on backend development and
+the creation of practical software applications.
+
+I mainly work with C#, .NET, Python and SQL, while also using HTML,
+CSS and JavaScript to build complete and user-friendly solutions.
+
+---
+
+## 🛠️ Technologies
+
+### Backend
+
+C# · .NET · Python · Flask
+
+### Frontend
+
+HTML · CSS · JavaScript
+
+### Databases and Tools
+
+SQL · SQLite · Git · GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### GIAS — Inventory and Stock Management
+
+Inventory management application developed in C#, using an MVC-based
+architecture to manage products, stock movements and inventory analysis.
+
+### Photo Organizer CLI
+
+Python command-line application for organizing photographs, reading EXIF
+metadata and detecting duplicate or similar images.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: coming soon
+- Portfolio: in development
